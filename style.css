@@ -52,3 +52,9 @@ textarea {
 .tag.highlight {
     background-color:red;
 }
+
+footer {
+    font-size: small;
+    color: lightseagreen;
+   
+}
